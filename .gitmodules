@@ -1,0 +1,3 @@
+[submodule "tespeed"]
+	path = tespeed
+	url = git://github.com/Janhouse/tespeed.git
