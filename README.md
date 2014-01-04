@@ -1,3 +1,5 @@
+[![Analytics](https://ga-beacon.appspot.com/UA-13186236-6/kabelde_speed/readme)](https://github.com/igrigorik/ga-beacon)
+
 # luzifer / kabelde\_speed
 
 ## Installation
